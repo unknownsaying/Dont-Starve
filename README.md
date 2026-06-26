@@ -1,2 +1,2 @@
-# Meta_Copy-
+# Meta_Copy
 a duplicate copy inside game
